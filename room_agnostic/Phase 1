@@ -1,1 +1,11 @@
+**Convert any room to a standard representation**
 
+Floor plane (estimate)
+
+Walls (optional in v1)
+
+Static obstacles (furniture mesh bounds)
+
+Room bounds + object bounding boxes (AABB/OBB)
+
+“Walkable / free space” (even a coarse grid is fine)
