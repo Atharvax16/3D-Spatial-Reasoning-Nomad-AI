@@ -1,0 +1,10367 @@
+{
+  "source": "room_scene.glb",
+  "num_geometries": 246,
+  "geometries": [
+    {
+      "geom_name": "Plane",
+      "local_bbox_min": [
+        -1.0,
+        0.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Plane.001",
+      "local_bbox_min": [
+        0.2899,
+        -0.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Plane.001_1",
+      "local_bbox_min": [
+        -1.0,
+        -0.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        0.2899,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Plane.002",
+      "local_bbox_min": [
+        0.2899,
+        -0.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Plane.002_1",
+      "local_bbox_min": [
+        -1.0,
+        -0.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        0.2899,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Plane.003",
+      "local_bbox_min": [
+        -1.0,
+        0.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Plane.004",
+      "local_bbox_min": [
+        0.2899,
+        0.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Plane.004_1",
+      "local_bbox_min": [
+        -1.0,
+        0.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        0.2899,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Plane.005",
+      "local_bbox_min": [
+        -1.0,
+        0.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Plane.006",
+      "local_bbox_min": [
+        -1.0,
+        0.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.099",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.099_1",
+      "local_bbox_min": [
+        -0.85,
+        -0.911502,
+        0.661057
+      ],
+      "local_bbox_max": [
+        0.85,
+        0.911502,
+        0.661057
+      ]
+    },
+    {
+      "geom_name": "Cube.011",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.011_1",
+      "local_bbox_min": [
+        -0.85,
+        -0.911502,
+        0.661057
+      ],
+      "local_bbox_max": [
+        0.85,
+        0.911502,
+        0.661057
+      ]
+    },
+    {
+      "geom_name": "Cube.007",
+      "local_bbox_min": [
+        -1.0,
+        -0.867209,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        0.7,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.009",
+      "local_bbox_min": [
+        -1.0,
+        -0.867209,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        0.7,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.151",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Plane.007",
+      "local_bbox_min": [
+        -1.0,
+        0.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        0.058397,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Plane.008",
+      "local_bbox_min": [
+        -1.0,
+        0.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        0.058397,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Plane.009",
+      "local_bbox_min": [
+        -1.0,
+        0.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        0.058397,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Plane.010",
+      "local_bbox_min": [
+        -1.0,
+        0.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        0.058397,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.050",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.051",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.052",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.053",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.054",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.055",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.056",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.057",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.058",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.059",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.060",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.061",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.062",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.063",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.064",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.065",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.066",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.067",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.068",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.069",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.070",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.071",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.072",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.073",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.074",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.075",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.113",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.114",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.115",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.116",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.117",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.118",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.119",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.120",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.121",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.122",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.123",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.124",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.125",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.126",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.127",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.128",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.129",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.130",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.131",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.132",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.133",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.134",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.135",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.136",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.137",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.138",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "geom_name": "Cube.004",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.025",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.026",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.027",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.028",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.029",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.030",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.031",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.032",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.033",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.034",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.035",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.036",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.037",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.038",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.039",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.040",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.041",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.042",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.043",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.044",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.045",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.046",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.047",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.048",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.049",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.100",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.101",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.102",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.103",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.104",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.105",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.106",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.107",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.108",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.109",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.110",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.111",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.112",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.139",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.140",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.141",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.142",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.143",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.144",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.145",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.146",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.147",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.148",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.012",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -3.916942
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.013",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -3.916942
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.014",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -3.916942
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.015",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -3.916942
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.016",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -3.916942
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.017",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -3.916942
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.018",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -3.916942
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.019",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -3.916942
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.020",
+      "local_bbox_min": [
+        -0.84392,
+        -1.0,
+        -3.916942
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.021",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -3.916942
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.022",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -3.916942
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.023",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -3.916942
+      ],
+      "local_bbox_max": [
+        0.756067,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.078",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.079",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.080",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.081",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.006",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cylinder.001",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cylinder.002",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cylinder.003",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cylinder.006",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cylinder.007",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cylinder.008",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cylinder.009",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cylinder.011",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Sphere",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Sphere.001",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Sphere.002",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Sphere.003",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Sphere.004",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Sphere.005",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Sphere.006",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Sphere.007",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.149",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cylinder.004",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cylinder.005",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.152",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -4.052246
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.152_1",
+      "local_bbox_min": [
+        -0.965266,
+        -0.965266,
+        0.240273
+      ],
+      "local_bbox_max": [
+        0.965266,
+        0.965266,
+        0.240273
+      ]
+    },
+    {
+      "geom_name": "Cube.153",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.154",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.155",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.156",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.159",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.160",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.161",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.162",
+      "local_bbox_min": [
+        -1.833238,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.163",
+      "local_bbox_min": [
+        -1.0,
+        -0.997534,
+        -6.785841
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.002466,
+        4.397808
+      ]
+    },
+    {
+      "geom_name": "Cube.164",
+      "local_bbox_min": [
+        -1.0,
+        -0.997534,
+        -6.785841
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.002466,
+        4.397808
+      ]
+    },
+    {
+      "geom_name": "Cube.165",
+      "local_bbox_min": [
+        -1.0,
+        -0.997534,
+        -6.785841
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.002466,
+        4.397808
+      ]
+    },
+    {
+      "geom_name": "Cube.167",
+      "local_bbox_min": [
+        -1.0,
+        -0.997534,
+        -6.785841
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.002466,
+        4.397808
+      ]
+    },
+    {
+      "geom_name": "Cube.077",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cylinder.016",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cylinder.017",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        0.999999,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.024",
+      "local_bbox_min": [
+        -0.373219,
+        -1.006663,
+        -1.026712
+      ],
+      "local_bbox_max": [
+        1.0,
+        0.770045,
+        1.026712
+      ]
+    },
+    {
+      "geom_name": "Cylinder.014",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cylinder.014_1",
+      "local_bbox_min": [
+        -0.9,
+        -0.701198,
+        -0.9
+      ],
+      "local_bbox_max": [
+        0.9,
+        -0.701198,
+        0.9
+      ]
+    },
+    {
+      "geom_name": "Cube.082",
+      "local_bbox_min": [
+        -1.031091,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.083",
+      "local_bbox_min": [
+        -1.031091,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.084",
+      "local_bbox_min": [
+        -1.031091,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.085",
+      "local_bbox_min": [
+        -1.031091,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "BezierCurve",
+      "local_bbox_min": [
+        -0.055217,
+        0.014416,
+        -0.923081
+      ],
+      "local_bbox_max": [
+        0.46766,
+        0.691109,
+        -0.189013
+      ]
+    },
+    {
+      "geom_name": "Cube.088",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.086",
+      "local_bbox_min": [
+        -1.0,
+        -8.870538,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.089",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.089_1",
+      "local_bbox_min": [
+        -0.020499,
+        -0.94488,
+        -0.94488
+      ],
+      "local_bbox_max": [
+        -0.020499,
+        0.94488,
+        0.94488
+      ]
+    },
+    {
+      "geom_name": "Cube.076",
+      "local_bbox_min": [
+        1.23666,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        3.23666,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.076_1",
+      "local_bbox_min": [
+        1.23666,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        3.23666,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.010",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.010_1",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.008",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.008_1",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        5.77891,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.157",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.150",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.168",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.168_1",
+      "local_bbox_min": [
+        -0.97289,
+        -0.97289,
+        0.000255
+      ],
+      "local_bbox_max": [
+        0.97289,
+        0.97289,
+        0.000255
+      ]
+    },
+    {
+      "geom_name": "Cube.001",
+      "local_bbox_min": [
+        -1.000001,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.001_1",
+      "local_bbox_min": [
+        -0.19605,
+        -0.913302,
+        -0.913302
+      ],
+      "local_bbox_max": [
+        -0.19605,
+        0.913302,
+        0.913302
+      ]
+    },
+    {
+      "geom_name": "Cube.002",
+      "local_bbox_min": [
+        -1.000001,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.002_1",
+      "local_bbox_min": [
+        -0.19605,
+        -0.913302,
+        -0.913302
+      ],
+      "local_bbox_max": [
+        -0.19605,
+        0.913302,
+        0.913302
+      ]
+    },
+    {
+      "geom_name": "Cube.003",
+      "local_bbox_min": [
+        -1.000001,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.003_1",
+      "local_bbox_min": [
+        -0.19605,
+        -0.913302,
+        -0.913302
+      ],
+      "local_bbox_max": [
+        -0.19605,
+        0.913302,
+        0.913302
+      ]
+    },
+    {
+      "geom_name": "Cube.090",
+      "local_bbox_min": [
+        -1.0,
+        -16.999971,
+        -1.1
+      ],
+      "local_bbox_max": [
+        1.0,
+        16.999971,
+        1.1
+      ]
+    },
+    {
+      "geom_name": "Cube.091",
+      "local_bbox_min": [
+        -1.0,
+        -16.999971,
+        -1.1
+      ],
+      "local_bbox_max": [
+        1.0,
+        16.999971,
+        1.1
+      ]
+    },
+    {
+      "geom_name": "Cube.087",
+      "local_bbox_min": [
+        -1.0,
+        -16.999971,
+        -1.1
+      ],
+      "local_bbox_max": [
+        1.0,
+        16.999971,
+        1.1
+      ]
+    },
+    {
+      "geom_name": "Cube.096",
+      "local_bbox_min": [
+        -1.0,
+        -16.999971,
+        -1.1
+      ],
+      "local_bbox_max": [
+        1.0,
+        16.999971,
+        1.1
+      ]
+    },
+    {
+      "geom_name": "Cube.093",
+      "local_bbox_min": [
+        -1.0,
+        -0.292576,
+        -1.0
+      ],
+      "local_bbox_max": [
+        0.0,
+        0.292576,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.094",
+      "local_bbox_min": [
+        -1.0,
+        -0.292576,
+        -1.0
+      ],
+      "local_bbox_max": [
+        0.0,
+        0.292576,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.092",
+      "local_bbox_min": [
+        -1.0,
+        -0.292576,
+        -1.0
+      ],
+      "local_bbox_max": [
+        0.0,
+        0.292576,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.095",
+      "local_bbox_min": [
+        -1.0,
+        -0.292576,
+        -1.0
+      ],
+      "local_bbox_max": [
+        0.0,
+        0.292576,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.097",
+      "local_bbox_min": [
+        -1.0,
+        -0.292576,
+        -1.0
+      ],
+      "local_bbox_max": [
+        0.0,
+        0.292576,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.098",
+      "local_bbox_min": [
+        -1.0,
+        -0.292576,
+        -1.0
+      ],
+      "local_bbox_max": [
+        0.0,
+        0.292576,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cylinder",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cube.005",
+      "local_bbox_min": [
+        -3.996702,
+        -1.0,
+        -5.233214
+      ],
+      "local_bbox_max": [
+        4.665289,
+        15.416588,
+        2.429163
+      ]
+    },
+    {
+      "geom_name": "Tree Branch",
+      "local_bbox_min": [
+        -0.347747,
+        -0.054301,
+        -0.5
+      ],
+      "local_bbox_max": [
+        0.347747,
+        0.069148,
+        0.5
+      ]
+    },
+    {
+      "geom_name": "Tree Branch.001",
+      "local_bbox_min": [
+        -0.347747,
+        -0.054301,
+        -0.5
+      ],
+      "local_bbox_max": [
+        0.347747,
+        0.069148,
+        0.5
+      ]
+    },
+    {
+      "geom_name": "Tree Branch.002",
+      "local_bbox_min": [
+        -0.347747,
+        -0.054301,
+        -0.5
+      ],
+      "local_bbox_max": [
+        0.347747,
+        0.069148,
+        0.5
+      ]
+    },
+    {
+      "geom_name": "Tree Branch.003",
+      "local_bbox_min": [
+        -0.347747,
+        -0.054301,
+        -0.5
+      ],
+      "local_bbox_max": [
+        0.347747,
+        0.069148,
+        0.5
+      ]
+    },
+    {
+      "geom_name": "Tree Branch.004",
+      "local_bbox_min": [
+        -0.347747,
+        -0.054301,
+        -0.5
+      ],
+      "local_bbox_max": [
+        0.347747,
+        0.069148,
+        0.5
+      ]
+    },
+    {
+      "geom_name": "Tree Branch.005",
+      "local_bbox_min": [
+        -0.347747,
+        -0.054301,
+        -0.5
+      ],
+      "local_bbox_max": [
+        0.347747,
+        0.069148,
+        0.5
+      ]
+    },
+    {
+      "geom_name": "Tree Branch.006",
+      "local_bbox_min": [
+        -0.347747,
+        -0.054301,
+        -0.5
+      ],
+      "local_bbox_max": [
+        0.347747,
+        0.069148,
+        0.5
+      ]
+    },
+    {
+      "geom_name": "Tree Branch.007",
+      "local_bbox_min": [
+        -0.347747,
+        -0.054301,
+        -0.5
+      ],
+      "local_bbox_max": [
+        0.347747,
+        0.069148,
+        0.5
+      ]
+    },
+    {
+      "geom_name": "Tree Branch.008",
+      "local_bbox_min": [
+        -0.347747,
+        -0.054301,
+        -0.5
+      ],
+      "local_bbox_max": [
+        0.347747,
+        0.069148,
+        0.5
+      ]
+    },
+    {
+      "geom_name": "Tree Branch.009",
+      "local_bbox_min": [
+        -0.347747,
+        -0.054301,
+        -0.5
+      ],
+      "local_bbox_max": [
+        0.347747,
+        0.069148,
+        0.5
+      ]
+    },
+    {
+      "geom_name": "Tree Branch.010",
+      "local_bbox_min": [
+        -0.347747,
+        -0.054301,
+        -0.5
+      ],
+      "local_bbox_max": [
+        0.347747,
+        0.069148,
+        0.5
+      ]
+    },
+    {
+      "geom_name": "Tree Branch.011",
+      "local_bbox_min": [
+        -0.347747,
+        -0.054301,
+        -0.5
+      ],
+      "local_bbox_max": [
+        0.347747,
+        0.069148,
+        0.5
+      ]
+    },
+    {
+      "geom_name": "Tree Branch.012",
+      "local_bbox_min": [
+        -0.347747,
+        -0.054301,
+        -0.5
+      ],
+      "local_bbox_max": [
+        0.347747,
+        0.069148,
+        0.5
+      ]
+    },
+    {
+      "geom_name": "Tree Branch.013",
+      "local_bbox_min": [
+        -0.347747,
+        -0.054301,
+        -0.5
+      ],
+      "local_bbox_max": [
+        0.347747,
+        0.069148,
+        0.5
+      ]
+    },
+    {
+      "geom_name": "Tree Branch.014",
+      "local_bbox_min": [
+        -0.347747,
+        -0.054301,
+        -0.5
+      ],
+      "local_bbox_max": [
+        0.347747,
+        0.069148,
+        0.5
+      ]
+    },
+    {
+      "geom_name": "Tree Branch.015",
+      "local_bbox_min": [
+        -0.347747,
+        -0.054301,
+        -0.5
+      ],
+      "local_bbox_max": [
+        0.347747,
+        0.069148,
+        0.5
+      ]
+    },
+    {
+      "geom_name": "Tree Branch.016",
+      "local_bbox_min": [
+        -0.347747,
+        -0.054301,
+        -0.5
+      ],
+      "local_bbox_max": [
+        0.347747,
+        0.069148,
+        0.5
+      ]
+    },
+    {
+      "geom_name": "Tree Branch.017",
+      "local_bbox_min": [
+        -0.347747,
+        -0.054301,
+        -0.5
+      ],
+      "local_bbox_max": [
+        0.347747,
+        0.069148,
+        0.5
+      ]
+    },
+    {
+      "geom_name": "Cylinder.015",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cylinder.018",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Tree07_4K",
+      "local_bbox_min": [
+        -0.307422,
+        0.0,
+        -0.5
+      ],
+      "local_bbox_max": [
+        0.307422,
+        0.0,
+        0.095309
+      ]
+    },
+    {
+      "geom_name": "Tree07_4K.001",
+      "local_bbox_min": [
+        -0.307422,
+        0.0,
+        -0.5
+      ],
+      "local_bbox_max": [
+        0.307422,
+        0.0,
+        0.095309
+      ]
+    },
+    {
+      "geom_name": "Tree07_4K.002",
+      "local_bbox_min": [
+        -0.307422,
+        0.0,
+        -0.5
+      ],
+      "local_bbox_max": [
+        0.307422,
+        0.0,
+        0.095309
+      ]
+    },
+    {
+      "geom_name": "Tree07_4K.003",
+      "local_bbox_min": [
+        -0.307422,
+        0.0,
+        -0.5
+      ],
+      "local_bbox_max": [
+        0.307422,
+        0.0,
+        0.095309
+      ]
+    },
+    {
+      "geom_name": "Tree07_4K.004",
+      "local_bbox_min": [
+        -0.307422,
+        0.0,
+        -0.5
+      ],
+      "local_bbox_max": [
+        0.307422,
+        0.0,
+        0.095309
+      ]
+    },
+    {
+      "geom_name": "Tree07_4K.005",
+      "local_bbox_min": [
+        -0.307422,
+        0.0,
+        -0.5
+      ],
+      "local_bbox_max": [
+        0.307422,
+        0.0,
+        0.095309
+      ]
+    },
+    {
+      "geom_name": "Tree07_4K.006",
+      "local_bbox_min": [
+        -0.307422,
+        0.0,
+        -0.5
+      ],
+      "local_bbox_max": [
+        0.307422,
+        0.0,
+        0.095309
+      ]
+    },
+    {
+      "geom_name": "Tree07_4K.007",
+      "local_bbox_min": [
+        -0.307422,
+        0.0,
+        -0.5
+      ],
+      "local_bbox_max": [
+        0.307422,
+        0.0,
+        0.095309
+      ]
+    },
+    {
+      "geom_name": "Cylinder.013",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "geom_name": "Cylinder.012",
+      "local_bbox_min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "local_bbox_max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  ],
+  "nodes_with_mesh": [
+    {
+      "node_index": 0,
+      "node_name": "Floor",
+      "mesh_index": 0,
+      "world_matrix": [
+        [
+          2.5,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 1,
+      "node_name": "Wall.001",
+      "mesh_index": 1,
+      "world_matrix": [
+        [
+          -0.0,
+          1.0,
+          0.0,
+          -2.5
+        ],
+        [
+          -1.5,
+          -0.0,
+          0.0,
+          1.5
+        ],
+        [
+          0.0,
+          0.0,
+          4.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 2,
+      "node_name": "Wall.002",
+      "mesh_index": 2,
+      "world_matrix": [
+        [
+          -0.0,
+          -1.0,
+          -1e-06,
+          2.499999
+        ],
+        [
+          -1.5,
+          -0.0,
+          -1e-06,
+          1.5
+        ],
+        [
+          0.0,
+          0.0,
+          -4.000001,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 3,
+      "node_name": "Wall.003",
+      "mesh_index": 3,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          -2.5,
+          0.0
+        ],
+        [
+          -1.5,
+          -0.0,
+          -0.0,
+          1.5
+        ],
+        [
+          -0.0,
+          1.0,
+          1e-06,
+          -3.999999
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 4,
+      "node_name": "Wall",
+      "mesh_index": 4,
+      "world_matrix": [
+        [
+          0.0,
+          -1e-06,
+          2.5,
+          0.0
+        ],
+        [
+          -1.5,
+          -0.0,
+          0.0,
+          1.5
+        ],
+        [
+          -0.0,
+          -1.0,
+          -2e-06,
+          3.999998
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 5,
+      "node_name": "Plafon",
+      "mesh_index": 5,
+      "world_matrix": [
+        [
+          -2.5,
+          -0.0,
+          0.0,
+          0.0
+        ],
+        [
+          1e-06,
+          -1.0,
+          0.0,
+          2.999999
+        ],
+        [
+          0.0,
+          0.0,
+          4.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 6,
+      "node_name": "Carpet",
+      "mesh_index": 6,
+      "world_matrix": [
+        [
+          1.75,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.01
+        ],
+        [
+          0.0,
+          0.0,
+          2.0,
+          -1.26968
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 7,
+      "node_name": "Window.001",
+      "mesh_index": 7,
+      "world_matrix": [
+        [
+          0.5,
+          0.0,
+          0.0,
+          -2.0
+        ],
+        [
+          0.0,
+          0.85,
+          0.0,
+          1.491109
+        ],
+        [
+          0.0,
+          0.0,
+          0.035,
+          4.034999
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 8,
+      "node_name": "Window.002",
+      "mesh_index": 8,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          -0.035,
+          -2.535
+        ],
+        [
+          0.0,
+          0.85,
+          0.0,
+          1.491109
+        ],
+        [
+          0.5,
+          0.0,
+          -0.0,
+          3.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 9,
+      "node_name": "Misc",
+      "mesh_index": 9,
+      "world_matrix": [
+        [
+          0.25,
+          0.0,
+          0.0,
+          -1.6
+        ],
+        [
+          0.0,
+          1.5,
+          0.0,
+          1.5
+        ],
+        [
+          0.0,
+          0.0,
+          -0.05,
+          -3.95
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 10,
+      "node_name": "Misc.001",
+      "mesh_index": 10,
+      "world_matrix": [
+        [
+          0.25,
+          0.0,
+          0.0,
+          1.6
+        ],
+        [
+          0.0,
+          1.5,
+          0.0,
+          1.5
+        ],
+        [
+          0.0,
+          0.0,
+          -0.05,
+          -3.95
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 11,
+      "node_name": "Cube.011",
+      "mesh_index": 11,
+      "world_matrix": [
+        [
+          1.25,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.15,
+          0.0,
+          0.492948
+        ],
+        [
+          0.0,
+          0.0,
+          0.25,
+          -3.749999
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 12,
+      "node_name": "Plane",
+      "mesh_index": 12,
+      "world_matrix": [
+        [
+          -0.0,
+          0.513725,
+          0.0,
+          -2.5
+        ],
+        [
+          -0.03,
+          -0.0,
+          0.0,
+          1.07015
+        ],
+        [
+          0.0,
+          0.0,
+          3.5,
+          -0.499998
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 13,
+      "node_name": "Plane.001",
+      "mesh_index": 13,
+      "world_matrix": [
+        [
+          0.0,
+          0.0,
+          2.0,
+          0.5
+        ],
+        [
+          -0.03,
+          0.0,
+          0.0,
+          1.07015
+        ],
+        [
+          -0.0,
+          -0.513725,
+          0.0,
+          3.999998
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 14,
+      "node_name": "Plane.002",
+      "mesh_index": 14,
+      "world_matrix": [
+        [
+          -0.0,
+          -0.513725,
+          -0.0,
+          2.499998
+        ],
+        [
+          -0.03,
+          -0.0,
+          -0.0,
+          1.07015
+        ],
+        [
+          0.0,
+          0.0,
+          -2.650001,
+          -1.35
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 15,
+      "node_name": "Plane.003",
+      "mesh_index": 15,
+      "world_matrix": [
+        [
+          -0.0,
+          -0.513725,
+          -0.0,
+          2.499998
+        ],
+        [
+          -0.03,
+          -0.0,
+          -0.0,
+          1.07015
+        ],
+        [
+          0.0,
+          0.0,
+          -0.4,
+          3.599996
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 16,
+      "node_name": "SideTegel.026",
+      "mesh_index": 16,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          3.75
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 17,
+      "node_name": "SideTegel.027",
+      "mesh_index": 17,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          3.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 18,
+      "node_name": "SideTegel.028",
+      "mesh_index": 18,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          2.75
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 19,
+      "node_name": "SideTegel.029",
+      "mesh_index": 19,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          2.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 20,
+      "node_name": "SideTegel.030",
+      "mesh_index": 20,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          1.75
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 21,
+      "node_name": "SideTegel.031",
+      "mesh_index": 21,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          1.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 22,
+      "node_name": "SideTegel.032",
+      "mesh_index": 22,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          0.75
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 23,
+      "node_name": "SideTegel.033",
+      "mesh_index": 23,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          0.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 24,
+      "node_name": "SideTegel.034",
+      "mesh_index": 24,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -0.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 25,
+      "node_name": "SideTegel.035",
+      "mesh_index": 25,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -0.75
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 26,
+      "node_name": "SideTegel.036",
+      "mesh_index": 26,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -1.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 27,
+      "node_name": "SideTegel.037",
+      "mesh_index": 27,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -1.75
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 28,
+      "node_name": "SideTegel.038",
+      "mesh_index": 28,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -2.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 29,
+      "node_name": "SideTegel.039",
+      "mesh_index": 29,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -2.75
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 30,
+      "node_name": "SideTegel.040",
+      "mesh_index": 30,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -3.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 31,
+      "node_name": "SideTegel.041",
+      "mesh_index": 31,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -3.75
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 32,
+      "node_name": "SideTegel.042",
+      "mesh_index": 32,
+      "world_matrix": [
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -2.25
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.0,
+          0.0,
+          -0.01,
+          3.99
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 33,
+      "node_name": "SideTegel.043",
+      "mesh_index": 33,
+      "world_matrix": [
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -1.75
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.0,
+          0.0,
+          -0.01,
+          3.99
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 34,
+      "node_name": "SideTegel.044",
+      "mesh_index": 34,
+      "world_matrix": [
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -1.25
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.0,
+          0.0,
+          -0.01,
+          3.99
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 35,
+      "node_name": "SideTegel.045",
+      "mesh_index": 35,
+      "world_matrix": [
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -0.751157
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.0,
+          0.0,
+          -0.01,
+          3.99
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 36,
+      "node_name": "SideTegel.046",
+      "mesh_index": 36,
+      "world_matrix": [
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -0.251157
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.0,
+          0.0,
+          -0.01,
+          3.99
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 37,
+      "node_name": "SideTegel.047",
+      "mesh_index": 37,
+      "world_matrix": [
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          0.248843
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.0,
+          0.0,
+          -0.01,
+          3.99
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 38,
+      "node_name": "SideTegel.048",
+      "mesh_index": 38,
+      "world_matrix": [
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          0.748843
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.0,
+          0.0,
+          -0.01,
+          3.99
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 39,
+      "node_name": "SideTegel.049",
+      "mesh_index": 39,
+      "world_matrix": [
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          1.248843
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.0,
+          0.0,
+          -0.01,
+          3.99
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 40,
+      "node_name": "SideTegel.050",
+      "mesh_index": 40,
+      "world_matrix": [
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          1.748843
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.0,
+          0.0,
+          -0.01,
+          3.99
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 41,
+      "node_name": "SideTegel.051",
+      "mesh_index": 41,
+      "world_matrix": [
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          2.248843
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.0,
+          0.0,
+          -0.01,
+          3.99
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 42,
+      "node_name": "SideTegel.065",
+      "mesh_index": 42,
+      "world_matrix": [
+        [
+          0.0,
+          0.0,
+          -0.01,
+          2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.25,
+          0.0,
+          0.0,
+          3.749996
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 43,
+      "node_name": "SideTegel.066",
+      "mesh_index": 43,
+      "world_matrix": [
+        [
+          0.0,
+          0.0,
+          -0.01,
+          2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.25,
+          0.0,
+          0.0,
+          3.249996
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 44,
+      "node_name": "SideTegel.067",
+      "mesh_index": 44,
+      "world_matrix": [
+        [
+          0.0,
+          0.0,
+          -0.01,
+          2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.25,
+          0.0,
+          0.0,
+          2.749996
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 45,
+      "node_name": "SideTegel.068",
+      "mesh_index": 45,
+      "world_matrix": [
+        [
+          0.0,
+          0.0,
+          -0.01,
+          2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.25,
+          0.0,
+          0.0,
+          2.249996
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 46,
+      "node_name": "SideTegel.069",
+      "mesh_index": 46,
+      "world_matrix": [
+        [
+          0.0,
+          0.0,
+          -0.01,
+          2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.25,
+          0.0,
+          0.0,
+          1.749996
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 47,
+      "node_name": "SideTegel.070",
+      "mesh_index": 47,
+      "world_matrix": [
+        [
+          0.0,
+          0.0,
+          -0.01,
+          2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.25,
+          0.0,
+          0.0,
+          1.249996
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 48,
+      "node_name": "SideTegel.071",
+      "mesh_index": 48,
+      "world_matrix": [
+        [
+          0.0,
+          0.0,
+          -0.01,
+          2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.25,
+          0.0,
+          0.0,
+          0.749996
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 49,
+      "node_name": "SideTegel.072",
+      "mesh_index": 49,
+      "world_matrix": [
+        [
+          0.0,
+          0.0,
+          -0.01,
+          2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.25,
+          0.0,
+          0.0,
+          0.249996
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 50,
+      "node_name": "SideTegel.073",
+      "mesh_index": 50,
+      "world_matrix": [
+        [
+          0.0,
+          0.0,
+          -0.01,
+          2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.25,
+          0.0,
+          0.0,
+          -0.250004
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 51,
+      "node_name": "SideTegel.074",
+      "mesh_index": 51,
+      "world_matrix": [
+        [
+          0.0,
+          0.0,
+          -0.01,
+          2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.25,
+          0.0,
+          0.0,
+          -0.750004
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 52,
+      "node_name": "SideTegel.075",
+      "mesh_index": 52,
+      "world_matrix": [
+        [
+          0.0,
+          0.0,
+          -0.01,
+          2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.25,
+          0.0,
+          0.0,
+          -1.250004
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 53,
+      "node_name": "SideTegel.076",
+      "mesh_index": 53,
+      "world_matrix": [
+        [
+          0.0,
+          0.0,
+          -0.01,
+          2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.25,
+          0.0,
+          0.0,
+          -1.750004
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 54,
+      "node_name": "SideTegel.077",
+      "mesh_index": 54,
+      "world_matrix": [
+        [
+          0.0,
+          0.0,
+          -0.01,
+          2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.25,
+          0.0,
+          0.0,
+          -2.250004
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 55,
+      "node_name": "SideTegel.078",
+      "mesh_index": 55,
+      "world_matrix": [
+        [
+          0.0,
+          0.0,
+          -0.01,
+          2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.25,
+          0.0,
+          0.0,
+          -2.750004
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 56,
+      "node_name": "SideTegel.079",
+      "mesh_index": 56,
+      "world_matrix": [
+        [
+          0.0,
+          0.0,
+          -0.01,
+          2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.25,
+          0.0,
+          0.0,
+          -3.250004
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 57,
+      "node_name": "SideTegel.080",
+      "mesh_index": 57,
+      "world_matrix": [
+        [
+          0.0,
+          0.0,
+          -0.01,
+          2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.25,
+          0.0,
+          0.0,
+          -3.750004
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 58,
+      "node_name": "SideTegel.081",
+      "mesh_index": 58,
+      "world_matrix": [
+        [
+          0.25,
+          0.0,
+          0.0,
+          2.249997
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.0,
+          0.0,
+          0.01,
+          -3.990001
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 59,
+      "node_name": "SideTegel.082",
+      "mesh_index": 59,
+      "world_matrix": [
+        [
+          0.25,
+          0.0,
+          0.0,
+          1.749997
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.0,
+          0.0,
+          0.01,
+          -3.990001
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 60,
+      "node_name": "SideTegel.083",
+      "mesh_index": 60,
+      "world_matrix": [
+        [
+          0.25,
+          0.0,
+          0.0,
+          1.249997
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.0,
+          0.0,
+          0.01,
+          -3.990001
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 61,
+      "node_name": "SideTegel.084",
+      "mesh_index": 61,
+      "world_matrix": [
+        [
+          0.25,
+          0.0,
+          0.0,
+          0.749997
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.0,
+          0.0,
+          0.01,
+          -3.990001
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 62,
+      "node_name": "SideTegel.085",
+      "mesh_index": 62,
+      "world_matrix": [
+        [
+          0.25,
+          0.0,
+          0.0,
+          0.249997
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.0,
+          0.0,
+          0.01,
+          -3.990001
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 63,
+      "node_name": "SideTegel.086",
+      "mesh_index": 63,
+      "world_matrix": [
+        [
+          0.25,
+          0.0,
+          0.0,
+          -0.250003
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.0,
+          0.0,
+          0.01,
+          -3.990001
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 64,
+      "node_name": "SideTegel.087",
+      "mesh_index": 64,
+      "world_matrix": [
+        [
+          0.25,
+          0.0,
+          0.0,
+          -0.750003
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.0,
+          0.0,
+          0.01,
+          -3.990001
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 65,
+      "node_name": "SideTegel.088",
+      "mesh_index": 65,
+      "world_matrix": [
+        [
+          0.25,
+          0.0,
+          0.0,
+          -1.250003
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.0,
+          0.0,
+          0.01,
+          -3.990001
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 66,
+      "node_name": "SideTegel.089",
+      "mesh_index": 66,
+      "world_matrix": [
+        [
+          0.25,
+          0.0,
+          0.0,
+          -1.750003
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.0,
+          0.0,
+          0.01,
+          -3.990001
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 67,
+      "node_name": "SideTegel.090",
+      "mesh_index": 67,
+      "world_matrix": [
+        [
+          0.25,
+          0.0,
+          0.0,
+          -2.250003
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          2.65
+        ],
+        [
+          0.0,
+          0.0,
+          0.01,
+          -3.990001
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 68,
+      "node_name": "SideTegel",
+      "mesh_index": 68,
+      "world_matrix": [
+        [
+          0.25,
+          0.0,
+          0.0,
+          -2.25
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          0.0,
+          0.0,
+          0.01,
+          3.989999
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 69,
+      "node_name": "SideTegel.001",
+      "mesh_index": 69,
+      "world_matrix": [
+        [
+          0.25,
+          0.0,
+          0.0,
+          -1.75
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          0.0,
+          0.0,
+          0.01,
+          3.989999
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 70,
+      "node_name": "SideTegel.002",
+      "mesh_index": 70,
+      "world_matrix": [
+        [
+          0.25,
+          0.0,
+          0.0,
+          -1.25
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          0.0,
+          0.0,
+          0.01,
+          3.989999
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 71,
+      "node_name": "SideTegel.003",
+      "mesh_index": 71,
+      "world_matrix": [
+        [
+          0.25,
+          0.0,
+          0.0,
+          -0.75
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          0.0,
+          0.0,
+          0.01,
+          3.989999
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 72,
+      "node_name": "SideTegel.004",
+      "mesh_index": 72,
+      "world_matrix": [
+        [
+          0.25,
+          0.0,
+          0.0,
+          -0.25
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          0.0,
+          0.0,
+          0.01,
+          3.989999
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 73,
+      "node_name": "SideTegel.005",
+      "mesh_index": 73,
+      "world_matrix": [
+        [
+          0.25,
+          0.0,
+          0.0,
+          0.25
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          0.0,
+          0.0,
+          0.01,
+          3.989999
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 74,
+      "node_name": "SideTegel.006",
+      "mesh_index": 74,
+      "world_matrix": [
+        [
+          0.25,
+          0.0,
+          0.0,
+          0.75
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          0.0,
+          0.0,
+          0.01,
+          3.989999
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 75,
+      "node_name": "SideTegel.007",
+      "mesh_index": 75,
+      "world_matrix": [
+        [
+          0.25,
+          0.0,
+          0.0,
+          1.25
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          0.0,
+          0.0,
+          0.01,
+          3.989999
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 76,
+      "node_name": "SideTegel.008",
+      "mesh_index": 76,
+      "world_matrix": [
+        [
+          0.25,
+          0.0,
+          0.0,
+          1.75
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          0.0,
+          0.0,
+          0.01,
+          3.989999
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 77,
+      "node_name": "SideTegel.009",
+      "mesh_index": 77,
+      "world_matrix": [
+        [
+          0.25,
+          0.0,
+          0.0,
+          2.25
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          0.0,
+          0.0,
+          0.01,
+          3.989999
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 78,
+      "node_name": "SideTegel.010",
+      "mesh_index": 78,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.1
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          3.75
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 79,
+      "node_name": "SideTegel.011",
+      "mesh_index": 79,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.1
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          3.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 80,
+      "node_name": "SideTegel.012",
+      "mesh_index": 80,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.1
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          2.75
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 81,
+      "node_name": "SideTegel.013",
+      "mesh_index": 81,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.1
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          2.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 82,
+      "node_name": "SideTegel.014",
+      "mesh_index": 82,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.1
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          1.75
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 83,
+      "node_name": "SideTegel.015",
+      "mesh_index": 83,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.1
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          1.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 84,
+      "node_name": "SideTegel.016",
+      "mesh_index": 84,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.1
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          0.75
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 85,
+      "node_name": "SideTegel.017",
+      "mesh_index": 85,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.1
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          0.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 86,
+      "node_name": "SideTegel.018",
+      "mesh_index": 86,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.1
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -0.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 87,
+      "node_name": "SideTegel.019",
+      "mesh_index": 87,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.1
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -0.75
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 88,
+      "node_name": "SideTegel.020",
+      "mesh_index": 88,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.1
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -1.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 89,
+      "node_name": "SideTegel.021",
+      "mesh_index": 89,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.1
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -1.75
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 90,
+      "node_name": "SideTegel.022",
+      "mesh_index": 90,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.1
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -2.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 91,
+      "node_name": "SideTegel.023",
+      "mesh_index": 91,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.1
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -2.75
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 92,
+      "node_name": "SideTegel.024",
+      "mesh_index": 92,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.1
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -3.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 93,
+      "node_name": "SideTegel.025",
+      "mesh_index": 93,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          -2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.1
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -3.75
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 94,
+      "node_name": "SideTegel.052",
+      "mesh_index": 94,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          3.749996
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 95,
+      "node_name": "SideTegel.053",
+      "mesh_index": 95,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -3.750001
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 96,
+      "node_name": "SideTegel.054",
+      "mesh_index": 96,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -3.250001
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 97,
+      "node_name": "SideTegel.055",
+      "mesh_index": 97,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -2.750001
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 98,
+      "node_name": "SideTegel.056",
+      "mesh_index": 98,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -2.250001
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 99,
+      "node_name": "SideTegel.057",
+      "mesh_index": 99,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -1.750001
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 100,
+      "node_name": "SideTegel.058",
+      "mesh_index": 100,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -1.250001
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 101,
+      "node_name": "SideTegel.059",
+      "mesh_index": 101,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -0.750001
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 102,
+      "node_name": "SideTegel.060",
+      "mesh_index": 102,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -0.250001
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 103,
+      "node_name": "SideTegel.061",
+      "mesh_index": 103,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          0.249999
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 104,
+      "node_name": "SideTegel.062",
+      "mesh_index": 104,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          0.749999
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 105,
+      "node_name": "SideTegel.063",
+      "mesh_index": 105,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          1.249999
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 106,
+      "node_name": "SideTegel.064",
+      "mesh_index": 106,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.01,
+          2.49
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          3.249996
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 107,
+      "node_name": "SideTegel.091",
+      "mesh_index": 107,
+      "world_matrix": [
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          2.249997
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          0.0,
+          0.0,
+          -0.01,
+          -3.99
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 108,
+      "node_name": "SideTegel.092",
+      "mesh_index": 108,
+      "world_matrix": [
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          1.749997
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          0.0,
+          0.0,
+          -0.01,
+          -3.99
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 109,
+      "node_name": "SideTegel.093",
+      "mesh_index": 109,
+      "world_matrix": [
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          1.249997
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          0.0,
+          0.0,
+          -0.01,
+          -3.99
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 110,
+      "node_name": "SideTegel.094",
+      "mesh_index": 110,
+      "world_matrix": [
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          0.749997
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          0.0,
+          0.0,
+          -0.01,
+          -3.99
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 111,
+      "node_name": "SideTegel.095",
+      "mesh_index": 111,
+      "world_matrix": [
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          0.249997
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          0.0,
+          0.0,
+          -0.01,
+          -3.99
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 112,
+      "node_name": "SideTegel.096",
+      "mesh_index": 112,
+      "world_matrix": [
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -0.250003
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          0.0,
+          0.0,
+          -0.01,
+          -3.99
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 113,
+      "node_name": "SideTegel.097",
+      "mesh_index": 113,
+      "world_matrix": [
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -0.750003
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          0.0,
+          0.0,
+          -0.01,
+          -3.99
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 114,
+      "node_name": "SideTegel.098",
+      "mesh_index": 114,
+      "world_matrix": [
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -1.250003
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          0.0,
+          0.0,
+          -0.01,
+          -3.99
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 115,
+      "node_name": "SideTegel.099",
+      "mesh_index": 115,
+      "world_matrix": [
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -1.750003
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          0.0,
+          0.0,
+          -0.01,
+          -3.99
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 116,
+      "node_name": "SideTegel.100",
+      "mesh_index": 116,
+      "world_matrix": [
+        [
+          -0.25,
+          0.0,
+          -0.0,
+          -2.250003
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.099188
+        ],
+        [
+          0.0,
+          0.0,
+          -0.01,
+          -3.99
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 117,
+      "node_name": "SideTegel.101",
+      "mesh_index": 117,
+      "world_matrix": [
+        [
+          0.0,
+          -0.0,
+          0.01,
+          2.49
+        ],
+        [
+          0.25,
+          0.0,
+          -0.0,
+          0.449188
+        ],
+        [
+          -0.0,
+          0.1,
+          0.0,
+          1.399999
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 118,
+      "node_name": "SideTegel.102",
+      "mesh_index": 118,
+      "world_matrix": [
+        [
+          0.0,
+          -0.0,
+          0.01,
+          2.49
+        ],
+        [
+          0.25,
+          0.0,
+          -0.0,
+          0.949188
+        ],
+        [
+          -0.0,
+          0.1,
+          0.0,
+          1.399999
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 119,
+      "node_name": "SideTegel.103",
+      "mesh_index": 119,
+      "world_matrix": [
+        [
+          0.0,
+          -0.0,
+          0.01,
+          2.49
+        ],
+        [
+          0.25,
+          0.0,
+          -0.0,
+          1.449188
+        ],
+        [
+          -0.0,
+          0.1,
+          0.0,
+          1.399999
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 120,
+      "node_name": "SideTegel.104",
+      "mesh_index": 120,
+      "world_matrix": [
+        [
+          0.0,
+          -0.0,
+          0.01,
+          2.49
+        ],
+        [
+          0.25,
+          0.0,
+          -0.0,
+          1.949188
+        ],
+        [
+          -0.0,
+          0.1,
+          0.0,
+          1.399999
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 121,
+      "node_name": "SideTegel.105",
+      "mesh_index": 121,
+      "world_matrix": [
+        [
+          0.0,
+          -0.0,
+          0.01,
+          2.494008
+        ],
+        [
+          0.25,
+          0.0,
+          -0.0,
+          0.449188
+        ],
+        [
+          -0.0,
+          0.1,
+          0.0,
+          3.099996
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 122,
+      "node_name": "SideTegel.106",
+      "mesh_index": 122,
+      "world_matrix": [
+        [
+          0.0,
+          -0.0,
+          0.01,
+          2.494008
+        ],
+        [
+          0.25,
+          0.0,
+          -0.0,
+          0.949188
+        ],
+        [
+          -0.0,
+          0.1,
+          0.0,
+          3.099996
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 123,
+      "node_name": "SideTegel.107",
+      "mesh_index": 123,
+      "world_matrix": [
+        [
+          0.0,
+          -0.0,
+          0.01,
+          2.494008
+        ],
+        [
+          0.25,
+          0.0,
+          -0.0,
+          1.449188
+        ],
+        [
+          -0.0,
+          0.1,
+          0.0,
+          3.099996
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 124,
+      "node_name": "SideTegel.108",
+      "mesh_index": 124,
+      "world_matrix": [
+        [
+          0.0,
+          -0.0,
+          0.01,
+          2.494008
+        ],
+        [
+          0.25,
+          0.0,
+          -0.0,
+          1.949188
+        ],
+        [
+          -0.0,
+          0.1,
+          0.0,
+          3.099996
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 125,
+      "node_name": "SideTegel.109",
+      "mesh_index": 125,
+      "world_matrix": [
+        [
+          0.0,
+          0.0,
+          0.01,
+          2.49
+        ],
+        [
+          -0.0,
+          -0.1,
+          0.0,
+          2.2
+        ],
+        [
+          0.25,
+          -0.0,
+          -0.0,
+          1.510979
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 126,
+      "node_name": "SideTegel.110",
+      "mesh_index": 126,
+      "world_matrix": [
+        [
+          0.0,
+          0.0,
+          0.01,
+          2.49
+        ],
+        [
+          -0.0,
+          -0.1,
+          0.0,
+          2.2
+        ],
+        [
+          0.25,
+          -0.0,
+          -0.0,
+          2.010979
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 127,
+      "node_name": "SideTegel.111",
+      "mesh_index": 127,
+      "world_matrix": [
+        [
+          0.0,
+          0.0,
+          0.01,
+          2.49
+        ],
+        [
+          -0.0,
+          -0.1,
+          0.0,
+          2.2
+        ],
+        [
+          0.25,
+          -0.0,
+          -0.0,
+          2.510979
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 128,
+      "node_name": "SideTegel.112",
+      "mesh_index": 128,
+      "world_matrix": [
+        [
+          0.0,
+          0.0,
+          0.01,
+          2.49
+        ],
+        [
+          -0.0,
+          -0.1,
+          0.0,
+          2.2
+        ],
+        [
+          0.25,
+          -0.0,
+          -0.0,
+          3.010979
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 129,
+      "node_name": "Cube",
+      "mesh_index": 129,
+      "world_matrix": [
+        [
+          2.5,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.05,
+          0.0,
+          2.8
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          2.999996
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 130,
+      "node_name": "Cube.001",
+      "mesh_index": 130,
+      "world_matrix": [
+        [
+          2.5,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.05,
+          0.0,
+          2.8
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -3.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 131,
+      "node_name": "Cube.002",
+      "mesh_index": 131,
+      "world_matrix": [
+        [
+          0.5,
+          0.0,
+          0.0,
+          -2.0
+        ],
+        [
+          0.0,
+          0.05,
+          0.0,
+          2.8
+        ],
+        [
+          0.0,
+          0.0,
+          2.0,
+          -4e-06
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 132,
+      "node_name": "Cube.003",
+      "mesh_index": 132,
+      "world_matrix": [
+        [
+          0.5,
+          0.0,
+          0.0,
+          1.999998
+        ],
+        [
+          0.0,
+          0.05,
+          0.0,
+          2.8
+        ],
+        [
+          0.0,
+          0.0,
+          2.0,
+          -4e-06
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 133,
+      "node_name": "UpperPlafon",
+      "mesh_index": 133,
+      "world_matrix": [
+        [
+          0.502026,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.05,
+          0.0,
+          2.949999
+        ],
+        [
+          0.0,
+          0.0,
+          0.75,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 134,
+      "node_name": "Cylinder.001",
+      "mesh_index": 134,
+      "world_matrix": [
+        [
+          0.005,
+          0.0,
+          0.0,
+          -0.259294
+        ],
+        [
+          0.0,
+          0.15,
+          0.0,
+          2.749999
+        ],
+        [
+          0.0,
+          0.0,
+          0.005,
+          -0.576511
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 135,
+      "node_name": "Cylinder.002",
+      "mesh_index": 135,
+      "world_matrix": [
+        [
+          0.005,
+          0.0,
+          0.0,
+          0.133594
+        ],
+        [
+          0.0,
+          0.25,
+          0.0,
+          2.649999
+        ],
+        [
+          0.0,
+          0.0,
+          0.005,
+          -0.576511
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 136,
+      "node_name": "Cylinder.003",
+      "mesh_index": 136,
+      "world_matrix": [
+        [
+          0.005,
+          0.0,
+          0.0,
+          -0.024895
+        ],
+        [
+          0.0,
+          0.2,
+          0.0,
+          2.699999
+        ],
+        [
+          0.0,
+          0.0,
+          0.005,
+          -0.314017
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 137,
+      "node_name": "Cylinder.004",
+      "mesh_index": 137,
+      "world_matrix": [
+        [
+          0.005,
+          0.0,
+          0.0,
+          -0.259294
+        ],
+        [
+          0.0,
+          0.15,
+          0.0,
+          2.749999
+        ],
+        [
+          0.0,
+          0.0,
+          0.005,
+          0.008537
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 138,
+      "node_name": "Cylinder.005",
+      "mesh_index": 138,
+      "world_matrix": [
+        [
+          0.005,
+          0.0,
+          0.0,
+          0.133594
+        ],
+        [
+          0.0,
+          0.25,
+          0.0,
+          2.649999
+        ],
+        [
+          0.0,
+          0.0,
+          0.005,
+          0.268937
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 139,
+      "node_name": "Cylinder.006",
+      "mesh_index": 139,
+      "world_matrix": [
+        [
+          0.005,
+          0.0,
+          0.0,
+          0.368211
+        ],
+        [
+          0.0,
+          0.2,
+          0.0,
+          2.699999
+        ],
+        [
+          0.0,
+          0.0,
+          0.005,
+          0.488485
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 140,
+      "node_name": "Cylinder.007",
+      "mesh_index": 140,
+      "world_matrix": [
+        [
+          0.005,
+          0.0,
+          0.0,
+          0.350127
+        ],
+        [
+          0.0,
+          0.15,
+          0.0,
+          2.749999
+        ],
+        [
+          0.0,
+          0.0,
+          0.005,
+          -0.084546
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 141,
+      "node_name": "Cylinder.008",
+      "mesh_index": 141,
+      "world_matrix": [
+        [
+          0.005,
+          0.0,
+          0.0,
+          -0.169311
+        ],
+        [
+          0.0,
+          0.2,
+          0.0,
+          2.699999
+        ],
+        [
+          0.0,
+          0.0,
+          0.005,
+          0.424334
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 142,
+      "node_name": "Sphere",
+      "mesh_index": 142,
+      "world_matrix": [
+        [
+          0.075,
+          0.0,
+          0.0,
+          -0.259378
+        ],
+        [
+          0.0,
+          0.075,
+          0.0,
+          2.526695
+        ],
+        [
+          0.0,
+          0.0,
+          0.075,
+          -0.576493
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 143,
+      "node_name": "Sphere.001",
+      "mesh_index": 143,
+      "world_matrix": [
+        [
+          0.075,
+          0.0,
+          0.0,
+          0.133708
+        ],
+        [
+          0.0,
+          0.075,
+          0.0,
+          2.327044
+        ],
+        [
+          0.0,
+          0.0,
+          0.075,
+          -0.576493
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 144,
+      "node_name": "Sphere.002",
+      "mesh_index": 144,
+      "world_matrix": [
+        [
+          0.075,
+          0.0,
+          0.0,
+          -0.024865
+        ],
+        [
+          0.0,
+          0.075,
+          0.0,
+          2.426484
+        ],
+        [
+          0.0,
+          0.0,
+          0.075,
+          -0.313792
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 145,
+      "node_name": "Sphere.003",
+      "mesh_index": 145,
+      "world_matrix": [
+        [
+          0.075,
+          0.0,
+          0.0,
+          -0.259314
+        ],
+        [
+          0.0,
+          0.075,
+          0.0,
+          2.529792
+        ],
+        [
+          0.0,
+          0.0,
+          0.075,
+          0.008444
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 146,
+      "node_name": "Sphere.004",
+      "mesh_index": 146,
+      "world_matrix": [
+        [
+          0.075,
+          0.0,
+          0.0,
+          0.350296
+        ],
+        [
+          0.0,
+          0.075,
+          0.0,
+          2.526774
+        ],
+        [
+          0.0,
+          0.0,
+          0.075,
+          -0.084675
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 147,
+      "node_name": "Sphere.005",
+      "mesh_index": 147,
+      "world_matrix": [
+        [
+          0.075,
+          0.0,
+          0.0,
+          0.133537
+        ],
+        [
+          0.0,
+          0.075,
+          0.0,
+          2.332223
+        ],
+        [
+          0.0,
+          0.0,
+          0.075,
+          0.26887
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 148,
+      "node_name": "Sphere.006",
+      "mesh_index": 148,
+      "world_matrix": [
+        [
+          0.075,
+          0.0,
+          0.0,
+          -0.169284
+        ],
+        [
+          0.0,
+          0.075,
+          0.0,
+          2.426847
+        ],
+        [
+          0.0,
+          0.0,
+          0.075,
+          0.424447
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 149,
+      "node_name": "Sphere.007",
+      "mesh_index": 149,
+      "world_matrix": [
+        [
+          0.075,
+          0.0,
+          0.0,
+          0.368302
+        ],
+        [
+          0.0,
+          0.075,
+          0.0,
+          2.429161
+        ],
+        [
+          0.0,
+          0.0,
+          0.075,
+          0.488528
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 150,
+      "node_name": "StandingLamp",
+      "mesh_index": 150,
+      "world_matrix": [
+        [
+          0.15,
+          0.0,
+          0.0,
+          -2.220552
+        ],
+        [
+          0.0,
+          0.025,
+          0.0,
+          0.02521
+        ],
+        [
+          0.0,
+          0.0,
+          0.15,
+          1.899506
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 151,
+      "node_name": "TopStandingLamp",
+      "mesh_index": 151,
+      "world_matrix": [
+        [
+          0.025,
+          0.0,
+          0.0,
+          -2.220552
+        ],
+        [
+          0.0,
+          0.5,
+          0.0,
+          0.55021
+        ],
+        [
+          0.0,
+          0.0,
+          0.025,
+          1.899687
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 152,
+      "node_name": "Lamp",
+      "mesh_index": 152,
+      "world_matrix": [
+        [
+          0.15,
+          0.0,
+          0.0,
+          -2.220552
+        ],
+        [
+          0.0,
+          0.2,
+          0.0,
+          1.25021
+        ],
+        [
+          0.0,
+          0.0,
+          0.15,
+          1.899682
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 153,
+      "node_name": "TV",
+      "mesh_index": 153,
+      "world_matrix": [
+        [
+          0.75,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.4,
+          0.0,
+          1.322105
+        ],
+        [
+          0.0,
+          0.0,
+          0.009898,
+          -3.925983
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 154,
+      "node_name": "Sofa",
+      "mesh_index": 154,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          1.0,
+          0.516345
+        ],
+        [
+          0.0,
+          0.15,
+          0.0,
+          0.16
+        ],
+        [
+          -0.511689,
+          0.0,
+          -0.0,
+          0.082389
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 155,
+      "node_name": "Sofa.001",
+      "mesh_index": 155,
+      "world_matrix": [
+        [
+          0.511689,
+          0.0,
+          0.0,
+          1.996838
+        ],
+        [
+          0.0,
+          0.15,
+          0.0,
+          0.15
+        ],
+        [
+          0.0,
+          0.0,
+          0.580926,
+          0.219479
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 156,
+      "node_name": "Sofa.002",
+      "mesh_index": 156,
+      "world_matrix": [
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.516345
+        ],
+        [
+          0.289184,
+          0.0,
+          0.0,
+          0.294364
+        ],
+        [
+          0.0,
+          0.1,
+          0.0,
+          0.660523
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 157,
+      "node_name": "Sofa.003",
+      "mesh_index": 157,
+      "world_matrix": [
+        [
+          -0.0,
+          0.075,
+          -0.0,
+          -0.530456
+        ],
+        [
+          0.179577,
+          -0.0,
+          0.0,
+          0.186584
+        ],
+        [
+          0.0,
+          -0.0,
+          -0.504618,
+          0.214871
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 158,
+      "node_name": "Sofa.004",
+      "mesh_index": 158,
+      "world_matrix": [
+        [
+          0.391691,
+          0.0,
+          0.0,
+          1.904054
+        ],
+        [
+          0.0,
+          0.15,
+          0.0,
+          0.15
+        ],
+        [
+          0.0,
+          0.0,
+          1.031406,
+          -1.340814
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 159,
+      "node_name": "Sofa.005",
+      "mesh_index": 159,
+      "world_matrix": [
+        [
+          -0.0,
+          0.1,
+          -0.0,
+          2.394607
+        ],
+        [
+          0.289184,
+          -0.0,
+          0.0,
+          0.294364
+        ],
+        [
+          0.0,
+          -0.0,
+          -1.0,
+          -1.3567
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 160,
+      "node_name": "Sofa.006",
+      "mesh_index": 160,
+      "world_matrix": [
+        [
+          -0.0,
+          -0.0,
+          -0.504618,
+          1.980638
+        ],
+        [
+          0.179577,
+          -0.0,
+          0.0,
+          0.186584
+        ],
+        [
+          -0.0,
+          -0.075,
+          0.0,
+          -2.405696
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 161,
+      "node_name": "Meja",
+      "mesh_index": 161,
+      "world_matrix": [
+        [
+          0.5,
+          0.0,
+          0.0,
+          0.694142
+        ],
+        [
+          0.0,
+          0.005,
+          0.0,
+          0.15253
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          -1.309938
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 162,
+      "node_name": "TiangMeja",
+      "mesh_index": 162,
+      "world_matrix": [
+        [
+          0.00787,
+          0.0,
+          0.005978,
+          0.223296
+        ],
+        [
+          0.0,
+          0.068072,
+          0.0,
+          0.077614
+        ],
+        [
+          -0.005978,
+          0.0,
+          0.00787,
+          -1.714229
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 163,
+      "node_name": "TiangMeja.001",
+      "mesh_index": 163,
+      "world_matrix": [
+        [
+          0.006472,
+          0.0,
+          -0.00747,
+          1.142988
+        ],
+        [
+          0.0,
+          0.068072,
+          0.0,
+          0.077614
+        ],
+        [
+          0.00747,
+          0.0,
+          0.006472,
+          -1.764303
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 164,
+      "node_name": "TiangMeja.002",
+      "mesh_index": 164,
+      "world_matrix": [
+        [
+          -0.007199,
+          0.0,
+          -0.006771,
+          1.135007
+        ],
+        [
+          0.0,
+          0.068072,
+          0.0,
+          0.077614
+        ],
+        [
+          0.006771,
+          0.0,
+          -0.007199,
+          -0.868132
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 165,
+      "node_name": "TiangMeja.003",
+      "mesh_index": 165,
+      "world_matrix": [
+        [
+          -0.005892,
+          0.0,
+          0.007935,
+          -0.137534
+        ],
+        [
+          0.0,
+          0.068072,
+          0.0,
+          0.077614
+        ],
+        [
+          -0.007935,
+          0.0,
+          -0.005892,
+          -0.873922
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 166,
+      "node_name": "UnderStandingLamp",
+      "mesh_index": 166,
+      "world_matrix": [
+        [
+          0.15,
+          0.0,
+          0.0,
+          2.239196
+        ],
+        [
+          0.0,
+          0.025,
+          0.0,
+          0.02521
+        ],
+        [
+          0.0,
+          0.0,
+          0.15,
+          -2.87065
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 167,
+      "node_name": "StandingLamp.001",
+      "mesh_index": 167,
+      "world_matrix": [
+        [
+          0.025,
+          0.0,
+          0.0,
+          2.239196
+        ],
+        [
+          0.0,
+          0.5,
+          0.0,
+          0.55021
+        ],
+        [
+          0.0,
+          0.0,
+          0.025,
+          -2.870469
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 168,
+      "node_name": "Lamp.001",
+      "mesh_index": 168,
+      "world_matrix": [
+        [
+          0.15,
+          0.0,
+          0.0,
+          1.746855
+        ],
+        [
+          0.0,
+          0.091716,
+          0.0,
+          1.25021
+        ],
+        [
+          0.0,
+          0.0,
+          0.15,
+          -2.169524
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 169,
+      "node_name": "Piano",
+      "mesh_index": 169,
+      "world_matrix": [
+        [
+          0.452345,
+          0.0,
+          0.0,
+          -2.331176
+        ],
+        [
+          0.0,
+          0.7,
+          0.0,
+          0.714664
+        ],
+        [
+          0.0,
+          0.0,
+          0.7,
+          -1.907475
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 170,
+      "node_name": "Jam",
+      "mesh_index": 170,
+      "world_matrix": [
+        [
+          0.15,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -0.0,
+          -0.15,
+          2.084813
+        ],
+        [
+          0.0,
+          0.0075,
+          -0.0,
+          -3.992499
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 171,
+      "node_name": "Sofa.007",
+      "mesh_index": 171,
+      "world_matrix": [
+        [
+          0.107783,
+          0.0,
+          0.0,
+          2.189878
+        ],
+        [
+          0.0,
+          0.236609,
+          0.0,
+          0.492679
+        ],
+        [
+          0.0,
+          0.0,
+          0.428925,
+          -1.839671
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 172,
+      "node_name": "Sofa.008",
+      "mesh_index": 172,
+      "world_matrix": [
+        [
+          0.107783,
+          0.0,
+          0.0,
+          2.189878
+        ],
+        [
+          0.0,
+          0.236609,
+          0.0,
+          0.492679
+        ],
+        [
+          0.0,
+          0.0,
+          0.428925,
+          -0.943622
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 173,
+      "node_name": "Sofa.009",
+      "mesh_index": 173,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.428925,
+          0.947517
+        ],
+        [
+          0.0,
+          0.236609,
+          0.0,
+          0.492679
+        ],
+        [
+          -0.107783,
+          0.0,
+          -0.0,
+          0.454631
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 174,
+      "node_name": "Sofa.010",
+      "mesh_index": 174,
+      "world_matrix": [
+        [
+          -0.0,
+          0.0,
+          0.428925,
+          0.030052
+        ],
+        [
+          0.0,
+          0.236609,
+          0.0,
+          0.492679
+        ],
+        [
+          -0.107783,
+          0.0,
+          -0.0,
+          0.454631
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 175,
+      "node_name": "BezierCurve",
+      "mesh_index": 175,
+      "world_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          1.791232
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.855231
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -1.969084
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 176,
+      "node_name": "Atas Bangku",
+      "mesh_index": 176,
+      "world_matrix": [
+        [
+          0.25,
+          0.0,
+          0.0,
+          -2.231232
+        ],
+        [
+          0.0,
+          0.05,
+          0.0,
+          0.55
+        ],
+        [
+          0.0,
+          0.0,
+          0.75,
+          0.297507
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 177,
+      "node_name": "Bangku",
+      "mesh_index": 177,
+      "world_matrix": [
+        [
+          0.25,
+          0.0,
+          0.0,
+          -2.23
+        ],
+        [
+          0.0,
+          0.050656,
+          0.0,
+          0.449344
+        ],
+        [
+          0.0,
+          0.0,
+          0.75,
+          0.297507
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 178,
+      "node_name": "Cermin",
+      "mesh_index": 178,
+      "world_matrix": [
+        [
+          0.025,
+          0.0,
+          0.0,
+          -2.475
+        ],
+        [
+          0.0,
+          0.5,
+          0.0,
+          1.668433
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.29827
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 179,
+      "node_name": "Book",
+      "mesh_index": 179,
+      "world_matrix": [
+        [
+          -0.0,
+          -0.121626,
+          -0.0,
+          0.850598
+        ],
+        [
+          -0.03296,
+          -0.0,
+          -0.0,
+          0.660313
+        ],
+        [
+          0.0,
+          0.0,
+          -0.094255,
+          1.058295
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 180,
+      "node_name": "Book.001",
+      "mesh_index": 180,
+      "world_matrix": [
+        [
+          0.0,
+          0.158299,
+          0.0,
+          1.592003
+        ],
+        [
+          0.042898,
+          -0.0,
+          -0.0,
+          0.932908
+        ],
+        [
+          -0.0,
+          0.0,
+          -0.122675,
+          1.058295
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 181,
+      "node_name": "Book.002",
+      "mesh_index": 181,
+      "world_matrix": [
+        [
+          -0.042898,
+          0.0,
+          -0.0,
+          1.800975
+        ],
+        [
+          0.0,
+          0.158299,
+          0.0,
+          1.048309
+        ],
+        [
+          0.0,
+          0.0,
+          -0.122675,
+          1.050768
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 182,
+      "node_name": "PS",
+      "mesh_index": 182,
+      "world_matrix": [
+        [
+          0.163737,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.007154,
+          0.0,
+          0.647948
+        ],
+        [
+          0.0,
+          0.0,
+          0.163737,
+          -3.815281
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 183,
+      "node_name": "DropLam",
+      "mesh_index": 183,
+      "world_matrix": [
+        [
+          0.05,
+          0.0,
+          0.0,
+          1.606964
+        ],
+        [
+          0.0,
+          0.05,
+          0.0,
+          2.157104
+        ],
+        [
+          0.0,
+          0.0,
+          0.05,
+          -3.85
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 184,
+      "node_name": "DropLamp",
+      "mesh_index": 184,
+      "world_matrix": [
+        [
+          0.05,
+          0.0,
+          0.0,
+          -1.599252
+        ],
+        [
+          0.0,
+          0.05,
+          0.0,
+          2.157104
+        ],
+        [
+          0.0,
+          0.0,
+          0.05,
+          -3.85
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 185,
+      "node_name": "Picture",
+      "mesh_index": 185,
+      "world_matrix": [
+        [
+          1.02,
+          0.0,
+          0.0,
+          0.520937
+        ],
+        [
+          0.0,
+          0.58,
+          0.0,
+          1.74554
+        ],
+        [
+          0.0,
+          0.0,
+          0.025,
+          3.974998
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 186,
+      "node_name": "Foto",
+      "mesh_index": 186,
+      "world_matrix": [
+        [
+          0.025,
+          0.0,
+          0.0,
+          2.474998
+        ],
+        [
+          0.0,
+          0.25,
+          0.0,
+          1.527782
+        ],
+        [
+          0.0,
+          0.0,
+          0.25,
+          -0.758319
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 187,
+      "node_name": "Foto.001",
+      "mesh_index": 187,
+      "world_matrix": [
+        [
+          0.025,
+          0.0,
+          0.0,
+          2.474998
+        ],
+        [
+          0.0,
+          0.25,
+          0.0,
+          1.527782
+        ],
+        [
+          0.0,
+          0.0,
+          0.25,
+          -1.358319
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 188,
+      "node_name": "Foto.002",
+      "mesh_index": 188,
+      "world_matrix": [
+        [
+          0.025,
+          0.0,
+          0.0,
+          2.474998
+        ],
+        [
+          0.0,
+          0.25,
+          0.0,
+          1.527782
+        ],
+        [
+          0.0,
+          0.0,
+          0.25,
+          -1.958319
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 189,
+      "node_name": "Kerangka.002",
+      "mesh_index": 189,
+      "world_matrix": [
+        [
+          0.025,
+          0.0,
+          0.0,
+          1.132464
+        ],
+        [
+          0.0,
+          0.05,
+          0.0,
+          0.85
+        ],
+        [
+          0.0,
+          0.0,
+          0.25,
+          1.040913
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 190,
+      "node_name": "Kerangka.001",
+      "mesh_index": 190,
+      "world_matrix": [
+        [
+          0.025,
+          0.0,
+          0.0,
+          1.905
+        ],
+        [
+          0.0,
+          0.05,
+          0.0,
+          0.85
+        ],
+        [
+          0.0,
+          0.0,
+          0.25,
+          1.040913
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 191,
+      "node_name": "Kerangka",
+      "mesh_index": 191,
+      "world_matrix": [
+        [
+          0.025,
+          0.0,
+          0.0,
+          2.455
+        ],
+        [
+          0.0,
+          0.05,
+          0.0,
+          0.85
+        ],
+        [
+          0.0,
+          0.0,
+          0.25,
+          1.040913
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 192,
+      "node_name": "Kerangka.003",
+      "mesh_index": 192,
+      "world_matrix": [
+        [
+          0.025,
+          0.0,
+          0.0,
+          0.582464
+        ],
+        [
+          0.0,
+          0.05,
+          0.0,
+          0.85
+        ],
+        [
+          0.0,
+          0.0,
+          0.25,
+          1.040913
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 193,
+      "node_name": "Cube.004",
+      "mesh_index": 193,
+      "world_matrix": [
+        [
+          0.25,
+          0.0,
+          0.0,
+          2.18
+        ],
+        [
+          0.0,
+          0.934307,
+          0.0,
+          0.4826
+        ],
+        [
+          0.0,
+          0.0,
+          0.25,
+          1.045164
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 194,
+      "node_name": "Cube.005",
+      "mesh_index": 194,
+      "world_matrix": [
+        [
+          0.361268,
+          0.0,
+          0.0,
+          1.518732
+        ],
+        [
+          0.0,
+          0.587177,
+          0.0,
+          0.464832
+        ],
+        [
+          0.0,
+          0.0,
+          0.25,
+          1.045164
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 195,
+      "node_name": "Cube.006",
+      "mesh_index": 195,
+      "world_matrix": [
+        [
+          0.25,
+          0.0,
+          0.0,
+          2.18
+        ],
+        [
+          0.0,
+          0.587177,
+          0.0,
+          1.332024
+        ],
+        [
+          0.0,
+          0.0,
+          0.25,
+          1.045164
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 196,
+      "node_name": "Cube.007",
+      "mesh_index": 196,
+      "world_matrix": [
+        [
+          0.361268,
+          0.0,
+          0.0,
+          1.518732
+        ],
+        [
+          0.0,
+          0.820433,
+          0.0,
+          1.060187
+        ],
+        [
+          0.0,
+          0.0,
+          0.25,
+          1.045164
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 197,
+      "node_name": "Cube.008",
+      "mesh_index": 197,
+      "world_matrix": [
+        [
+          0.25,
+          0.0,
+          0.0,
+          0.857464
+        ],
+        [
+          0.0,
+          0.444402,
+          0.0,
+          1.376452
+        ],
+        [
+          0.0,
+          0.0,
+          0.25,
+          1.045164
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 198,
+      "node_name": "Cube.009",
+      "mesh_index": 198,
+      "world_matrix": [
+        [
+          0.25,
+          0.0,
+          0.0,
+          0.857464
+        ],
+        [
+          0.0,
+          0.707125,
+          0.0,
+          0.346745
+        ],
+        [
+          0.0,
+          0.0,
+          0.25,
+          1.045164
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 199,
+      "node_name": "Pot",
+      "mesh_index": 199,
+      "world_matrix": [
+        [
+          0.202587,
+          0.0,
+          0.146487,
+          -0.047499
+        ],
+        [
+          0.0,
+          0.15,
+          0.0,
+          0.15
+        ],
+        [
+          -0.146487,
+          0.0,
+          0.202587,
+          1.043863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 200,
+      "node_name": "Tree",
+      "mesh_index": 200,
+      "world_matrix": [
+        [
+          0.058432,
+          0.0,
+          0.042251,
+          -0.047965
+        ],
+        [
+          0.0,
+          0.072108,
+          0.0,
+          0.317145
+        ],
+        [
+          -0.042251,
+          0.0,
+          0.058432,
+          1.044199
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 201,
+      "node_name": "Tree Branch",
+      "mesh_index": 201,
+      "world_matrix": [
+        [
+          0.449372,
+          -0.016701,
+          -0.048974,
+          -0.388445
+        ],
+        [
+          -0.019624,
+          0.341141,
+          -0.296396,
+          1.070091
+        ],
+        [
+          0.047878,
+          0.296575,
+          0.338178,
+          0.769404
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 202,
+      "node_name": "Tree Branch.001",
+      "mesh_index": 202,
+      "world_matrix": [
+        [
+          -0.068999,
+          0.137897,
+          0.280045,
+          -0.631113
+        ],
+        [
+          -0.067422,
+          0.273452,
+          -0.151262,
+          1.019569
+        ],
+        [
+          -0.304787,
+          -0.091708,
+          -0.029938,
+          0.910843
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 203,
+      "node_name": "Tree Branch.002",
+      "mesh_index": 203,
+      "world_matrix": [
+        [
+          0.257418,
+          -0.109005,
+          -0.155099,
+          0.02185
+        ],
+        [
+          -0.189458,
+          -0.138822,
+          -0.216878,
+          1.314593
+        ],
+        [
+          0.006599,
+          0.266549,
+          -0.17638,
+          1.276211
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 204,
+      "node_name": "Tree Branch.003",
+      "mesh_index": 204,
+      "world_matrix": [
+        [
+          0.128534,
+          -0.062955,
+          0.285863,
+          -0.217425
+        ],
+        [
+          0.107854,
+          -0.280057,
+          -0.110171,
+          1.291466
+        ],
+        [
+          0.272118,
+          0.140737,
+          -0.09136,
+          1.269899
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 205,
+      "node_name": "Tree Branch.004",
+      "mesh_index": 205,
+      "world_matrix": [
+        [
+          0.288653,
+          0.057167,
+          0.062069,
+          -0.089769
+        ],
+        [
+          0.059229,
+          -0.294818,
+          -0.00391,
+          1.255358
+        ],
+        [
+          0.060104,
+          0.015977,
+          -0.294233,
+          1.423211
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 206,
+      "node_name": "Tree Branch.005",
+      "mesh_index": 206,
+      "world_matrix": [
+        [
+          0.352706,
+          0.009144,
+          -0.044651,
+          -0.033873
+        ],
+        [
+          0.020067,
+          -0.343978,
+          0.088064,
+          1.188037
+        ],
+        [
+          -0.040923,
+          -0.089857,
+          -0.341658,
+          1.42011
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 207,
+      "node_name": "Tree Branch.006",
+      "mesh_index": 207,
+      "world_matrix": [
+        [
+          -0.066403,
+          0.149327,
+          0.274762,
+          -0.217425
+        ],
+        [
+          0.228897,
+          -0.168174,
+          0.146717,
+          1.177396
+        ],
+        [
+          0.21307,
+          0.227203,
+          -0.071986,
+          1.269899
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 208,
+      "node_name": "Tree Branch.007",
+      "mesh_index": 208,
+      "world_matrix": [
+        [
+          0.084586,
+          -0.288659,
+          -0.337837,
+          0.359861
+        ],
+        [
+          -0.019624,
+          0.341141,
+          -0.296396,
+          1.397234
+        ],
+        [
+          0.443929,
+          0.070081,
+          0.051269,
+          0.87442
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 209,
+      "node_name": "Tree Branch.008",
+      "mesh_index": 209,
+      "world_matrix": [
+        [
+          0.296374,
+          0.10502,
+          0.057753,
+          0.177067
+        ],
+        [
+          -0.067422,
+          0.273452,
+          -0.151262,
+          1.332093
+        ],
+        [
+          -0.09909,
+          0.12805,
+          0.275656,
+          0.734459
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 210,
+      "node_name": "Tree Branch.009",
+      "mesh_index": 210,
+      "world_matrix": [
+        [
+          0.300467,
+          0.086399,
+          0.066759,
+          0.177067
+        ],
+        [
+          -0.056502,
+          0.290297,
+          -0.121397,
+          1.083062
+        ],
+        [
+          -0.09343,
+          0.102298,
+          0.288111,
+          0.734459
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 211,
+      "node_name": "Tree Branch.010",
+      "mesh_index": 211,
+      "world_matrix": [
+        [
+          -0.090214,
+          -0.133106,
+          -0.276308,
+          0.322372
+        ],
+        [
+          -0.056502,
+          0.290297,
+          -0.121397,
+          1.081757
+        ],
+        [
+          0.301448,
+          0.014577,
+          -0.105445,
+          0.950432
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 212,
+      "node_name": "Tree Branch.011",
+      "mesh_index": 212,
+      "world_matrix": [
+        [
+          0.020643,
+          -0.061156,
+          0.4852,
+          -0.443912
+        ],
+        [
+          0.097725,
+          -0.475321,
+          -0.064069,
+          1.467402
+        ],
+        [
+          0.479175,
+          0.099574,
+          -0.007836,
+          1.191711
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 213,
+      "node_name": "Tree Branch.012",
+      "mesh_index": 213,
+      "world_matrix": [
+        [
+          -0.341156,
+          -0.248606,
+          -0.247774,
+          -0.078531
+        ],
+        [
+          0.344284,
+          -0.169776,
+          -0.303693,
+          1.547968
+        ],
+        [
+          0.068306,
+          -0.385948,
+          0.293195,
+          0.989887
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 214,
+      "node_name": "Tree Branch.013",
+      "mesh_index": 214,
+      "world_matrix": [
+        [
+          -0.057134,
+          0.192154,
+          -0.210849,
+          -0.095642
+        ],
+        [
+          0.163139,
+          -0.154396,
+          -0.184912,
+          1.549407
+        ],
+        [
+          -0.234022,
+          -0.154543,
+          -0.077427,
+          1.166283
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 215,
+      "node_name": "Tree Branch.014",
+      "mesh_index": 215,
+      "world_matrix": [
+        [
+          -0.068999,
+          0.137897,
+          0.280045,
+          -0.631113
+        ],
+        [
+          -0.169914,
+          0.224002,
+          -0.152165,
+          1.003127
+        ],
+        [
+          -0.261859,
+          -0.181685,
+          0.024945,
+          0.910843
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 216,
+      "node_name": "Tree Branch.015",
+      "mesh_index": 216,
+      "world_matrix": [
+        [
+          -0.449496,
+          0.028601,
+          -0.041813,
+          -0.434053
+        ],
+        [
+          -0.004544,
+          -0.394613,
+          -0.221072,
+          1.040847
+        ],
+        [
+          -0.050455,
+          -0.219262,
+          0.392418,
+          0.747218
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 217,
+      "node_name": "Tree Branch.016",
+      "mesh_index": 217,
+      "world_matrix": [
+        [
+          0.102766,
+          0.294243,
+          -0.07115,
+          0.177067
+        ],
+        [
+          -0.287944,
+          0.071821,
+          -0.118877,
+          1.083062
+        ],
+        [
+          -0.09343,
+          0.102298,
+          0.288111,
+          0.734459
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 218,
+      "node_name": "Tree Branch.017",
+      "mesh_index": 218,
+      "world_matrix": [
+        [
+          0.084586,
+          -0.288659,
+          -0.337837,
+          0.359861
+        ],
+        [
+          -0.406655,
+          0.088353,
+          -0.177308,
+          1.347572
+        ],
+        [
+          0.179136,
+          0.336872,
+          -0.242983,
+          0.952798
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 219,
+      "node_name": "Pot.001",
+      "mesh_index": 219,
+      "world_matrix": [
+        [
+          0.202587,
+          0.0,
+          0.146487,
+          -2.167984
+        ],
+        [
+          0.0,
+          0.15,
+          0.0,
+          0.15
+        ],
+        [
+          -0.146487,
+          0.0,
+          0.202587,
+          -3.57663
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 220,
+      "node_name": "Pot.002",
+      "mesh_index": 220,
+      "world_matrix": [
+        [
+          0.202587,
+          0.0,
+          0.146487,
+          -2.031507
+        ],
+        [
+          0.0,
+          0.15,
+          0.0,
+          0.15
+        ],
+        [
+          -0.146487,
+          0.0,
+          0.202587,
+          3.585836
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 221,
+      "node_name": "Tree07_4K",
+      "mesh_index": 221,
+      "world_matrix": [
+        [
+          0.235505,
+          0.0,
+          0.0,
+          0.557955
+        ],
+        [
+          0.0,
+          -0.0,
+          -0.235505,
+          0.240403
+        ],
+        [
+          0.0,
+          0.235505,
+          -0.0,
+          -1.297931
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 222,
+      "node_name": "Tree07_4K.001",
+      "mesh_index": 222,
+      "world_matrix": [
+        [
+          0.0,
+          0.235505,
+          -0.0,
+          0.557955
+        ],
+        [
+          0.0,
+          0.0,
+          -0.235505,
+          0.240403
+        ],
+        [
+          -0.235505,
+          -0.0,
+          0.0,
+          -1.297931
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 223,
+      "node_name": "Tree07_4K.002",
+      "mesh_index": 223,
+      "world_matrix": [
+        [
+          0.235505,
+          0.0,
+          0.0,
+          1.518354
+        ],
+        [
+          0.0,
+          -0.0,
+          -0.235505,
+          1.383099
+        ],
+        [
+          0.0,
+          0.235505,
+          -0.0,
+          1.025888
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 224,
+      "node_name": "Tree07_4K.003",
+      "mesh_index": 224,
+      "world_matrix": [
+        [
+          0.0,
+          0.235505,
+          -0.0,
+          1.518354
+        ],
+        [
+          0.0,
+          0.0,
+          -0.235505,
+          1.383099
+        ],
+        [
+          -0.235505,
+          -0.0,
+          0.0,
+          1.025888
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 225,
+      "node_name": "Tree07_4K.004",
+      "mesh_index": 225,
+      "world_matrix": [
+        [
+          1.669086,
+          0.0,
+          0.0,
+          -2.172893
+        ],
+        [
+          0.0,
+          -0.0,
+          -1.669086,
+          0.332822
+        ],
+        [
+          0.0,
+          1.669086,
+          -0.0,
+          -3.588538
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 226,
+      "node_name": "Tree07_4K.005",
+      "mesh_index": 226,
+      "world_matrix": [
+        [
+          0.0,
+          1.669086,
+          -0.0,
+          -2.172893
+        ],
+        [
+          0.0,
+          0.0,
+          -1.669086,
+          0.332822
+        ],
+        [
+          -1.669086,
+          -0.0,
+          0.0,
+          -3.588538
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 227,
+      "node_name": "Tree07_4K.006",
+      "mesh_index": 227,
+      "world_matrix": [
+        [
+          1.367059,
+          0.0,
+          0.0,
+          -2.036415
+        ],
+        [
+          0.0,
+          -0.0,
+          -1.367059,
+          0.332822
+        ],
+        [
+          0.0,
+          1.367059,
+          -0.0,
+          3.573928
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 228,
+      "node_name": "Tree07_4K.007",
+      "mesh_index": 228,
+      "world_matrix": [
+        [
+          0.0,
+          1.367059,
+          0.0,
+          -2.036415
+        ],
+        [
+          0.0,
+          0.0,
+          -1.367059,
+          0.332822
+        ],
+        [
+          -1.367059,
+          0.0,
+          0.0,
+          3.573928
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 229,
+      "node_name": "Pot.003",
+      "mesh_index": 229,
+      "world_matrix": [
+        [
+          0.043848,
+          0.0,
+          0.0,
+          1.517562
+        ],
+        [
+          0.0,
+          0.043848,
+          0.0,
+          1.343509
+        ],
+        [
+          0.0,
+          0.0,
+          0.043848,
+          1.025744
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "node_index": 230,
+      "node_name": "Pot.004",
+      "mesh_index": 230,
+      "world_matrix": [
+        [
+          0.043848,
+          0.0,
+          0.0,
+          0.557163
+        ],
+        [
+          0.0,
+          0.043848,
+          0.0,
+          0.200813
+        ],
+        [
+          0.0,
+          0.0,
+          0.043848,
+          -1.298076
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    }
+  ]
+}
