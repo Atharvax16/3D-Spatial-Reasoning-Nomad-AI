@@ -1,96 +1,170 @@
-# 3D-Spatial-Reasoning-Nomad-AI
+3D Spatial Reasoning – Project Execution Plan
+🎯 Project Goal
 
-A small end-to-end prototype for **3D spatial reasoning in an indoor room**:
-1) take a Blender scene (`.blend`),  
-2) export it to `.glb`,  
-3) extract **object metadata + world-space transforms**,  
-4) generate **collision-free placement candidates** for new objects,  
-5) (optional) call an LLM (Mistral) to **choose / explain** placements in natural language.
+Build a room-agnostic 3D object placement system that:
 
----
+Accepts any 3D room layout (.glb)
 
-## What this repo does (in plain words)
+Extracts geometric structure automatically
 
-Given a room layout, we want to place an object (e.g., chair/table/plant) at a position that:
-- does **not collide** with existing geometry,
-- respects basic heuristics (near wall, not blocking walkable space, reasonable distance from other objects),
-- can be explained like: *“Place the chair near the wall beside the desk, leaving clearance for movement.”*
+Computes valid placement locations
 
-This repo contains scripts + notebooks to:
-- export and read a `.glb` version of the Blender scene,
-- extract object transforms into JSON (world coordinates),
-- generate candidate placements programmatically,
-- optionally query an LLM to pick the best placement / provide reasoning.
+Uses an LLM to generate geometry-grounded explanations
 
----
+Works across multiple room layouts (generalization proof)
 
-## Repository contents
+SYSTEM FLOW
+Room (.glb)
+      ↓
+Scene Graph Extraction (Phase 1)
+      ↓
+Free-Space & Collision Engine (Phase 2)
+      ↓
+Placement Scoring System (Phase 3)
+      ↓
+LLM Explanation Layer (Phase 4)
+      ↓
+Evaluation Across Multiple Rooms
 
-- `room_scene.blend`  
-  Blender source scene (room layout).
+**Phase 1 – Scene Understanding (Room-Agnostic Core)**
+Objective
 
-- `room_scene.glb`  
-  Exported GLB version of the scene.
+Convert any .glb file into a structured scene representation.
 
-- `extract_scene_glb.py` / `extract_scene_glb.ipynb`  
-  Load the GLB and extract scene/object information.
+Extracted Information
 
-- `extract_scenario_glb.py`  
-  Variant script for scenario/object extraction (useful when you want a curated subset).
+Room bounds
 
-- `scene_objects_world.json`  
-  Output: objects with **world-space** position/rotation/scale (and other metadata if available).
+Floor height (robust percentile-based estimation)
 
-- `scene_state.json`  
-  Output: scene-level information (bounds, floor estimate, etc.) used by placement logic.
+Object bounding boxes (AABB in world coordinates)
 
-- `placement_generator.py` / `placement_generator.ipynb`  
-  Generates valid placement points (non-colliding) and ranks them with heuristics.
+2D occupancy grid (top-down projection)
 
-- `mistral_call.ipynb`  
-  Optional: call a Mistral model/API to pick a placement and explain the reasoning.
 
----
+Phase 2 – Collision & Free-Space Engine
+Objective
 
-## Requirements
+Generate physically valid placement candidates.
 
-### 1) Blender
-Install Blender (recommended: **Blender 3.x / 4.x**) to open/edit the scene and export GLB.
+Checks
 
-You’ll use Blender for:
-- opening `room_scene.blend`
-- exporting to `room_scene.glb` (if you change the room)
+No collision with existing objects
 
-### 2) Python
-- Python **3.10+** recommended
-- Works best in a virtual environment
+Inside room bounds
 
-### 3) Python packages
-Exact packages depend on your local setup, but typically you’ll need:
-- `numpy`
-- `json` (built-in)
-- GLB/mesh helpers (commonly: `trimesh`, `pygltflib`)
-- geometry helpers (commonly: `shapely`, `scipy`) — if you use polygon/nearest-neighbor utilities
+Clearance radius satisfied
 
-If you don’t have a `requirements.txt` yet, create one and pin what your scripts import.
+Does not block walkable free space
 
----
 
-## Setup
+Phase 3 – Placement Optimization
+Objective
 
-```bash
-# 1) clone
-git clone https://github.com/Atharvax16/3D-Spatial-Reasoning-Nomad-AI.git
-cd 3D-Spatial-Reasoning-Nomad-AI
+Select the best placement using spatial scoring.
 
-# 2) create venv
-python -m venv .venv
+Example Scoring Criteria
 
-# Windows:
-# .venv\Scripts\activate
-# macOS/Linux:
-source .venv/bin/activate
+Distance to nearest wall
 
-# 3) install dependencies (add requirements.txt if you don’t have it yet)
-pip install -U pip
-pip install numpy trimesh pygltflib shapely scipy
+Distance to target object (e.g., chair near desk)
+
+Maximum clearance
+
+Walkability preservation
+
+
+Phase 4 – Geometry-Grounded LLM Explanation
+
+The LLM does not hallucinate placement.
+
+Instead, it receives structured geometric facts:
+
+Distance to nearest wall
+
+Clearance value
+
+Collision checks
+
+Walkability impact
+
+Candidate ranking
+
+It generates:
+
+Final placement decision
+
+Explanation referencing measured geometry
+
+Optional rejection reasoning for alternatives
+
+Multi-Room Generalization
+
+To prove room-agnostic behavior:
+
+Multiple room layouts are placed in /data/rooms
+
+A batch runner processes all rooms
+
+Evaluation metrics are computed per room
+
+Metrics
+
+Collision-free rate
+
+Average clearance
+
+Walkability impact
+
+Runtime per scene
+
+Novelty
+
+This system is novel because:
+
+It is fully room-agnostic
+
+No scene-specific hardcoding
+
+Converts arbitrary 3D layouts into structured scene graphs
+
+Combines geometric reasoning with LLM-based explanation
+
+Produces measurable evaluation metrics
+
+Supports multi-room generalization
+
+👥 Team Responsibilities
+Geometry & Core Engine
+
+Scene extraction
+
+Bounding box computation
+
+Occupancy grid
+
+Optimization
+
+Collision detection
+
+Candidate scoring
+
+Constraint modeling
+
+LLM & Explainability
+
+Prompt design
+
+Structured input formatting
+
+Explanation generation
+
+Evaluation & Demo
+
+Batch runner
+
+Metrics
+
+Visualization
+
+Documentation
