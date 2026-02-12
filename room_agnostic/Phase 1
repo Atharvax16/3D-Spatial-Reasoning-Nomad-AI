@@ -9,3 +9,4 @@ Static obstacles (furniture mesh bounds)
 Room bounds + object bounding boxes (AABB/OBB)
 
 “Walkable / free space” (even a coarse grid is fine)
+
