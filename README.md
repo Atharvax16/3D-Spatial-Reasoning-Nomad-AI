@@ -168,3 +168,8 @@ Metrics
 Visualization
 
 Documentation
+
+
+Phase 1:
+<img width="775" height="545" alt="image" src="https://github.com/user-attachments/assets/524f4c1a-dee0-4c7f-812b-ed4f2071b2e0" />
+
