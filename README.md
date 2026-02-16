@@ -1,175 +1,68 @@
-3D Spatial Reasoning – Project Execution Plan
-🎯 Project Goal
+# 3D Spatial Reasoning (Nomad AI) — LLM + Geometry Engine for Collision-Free Placement
 
-Build a room-agnostic 3D object placement system that:
+A practical approach to **reliable spatial reasoning**:  
+instead of letting an LLM “guess” coordinates, we separate responsibilities:
 
-Accepts any 3D room layout (.glb)
+- **LLM = intent + explanation** (what the user wants, constraints, natural language)
+- **Geometry engine = feasibility** (where objects *can* go, collision-free, walkable)
+- **Output = validated placement + human-readable reasoning** (with distances)
 
-Extracts geometric structure automatically
+This project explores **room-aware object placement** inside a 3D scene (Blender-based), producing placements that are **physically valid** (no intersections / no blocked regions) and **explainable** (why this location was chosen).
 
-Computes valid placement locations
+---
 
-Uses an LLM to generate geometry-grounded explanations
+## ✨ Key Features
 
-Works across multiple room layouts (generalization proof)
+- ✅ **Collision-free placement** using geometric checks (AABB / bounding volumes / spacing rules)
+- ✅ **Constraint-aware** placement (walls, keep-out zones, minimum clearances, walkways)
+- ✅ **LLM-driven intent parsing** (extract object type, size, preferences, constraints)
+- ✅ **Explainable output** (distances, free-space justification, why alternatives were rejected)
+- ✅ Works with a **Blender room scene** as the environment representation
 
-SYSTEM FLOW
-Room (.glb)
-      ↓
-Scene Graph Extraction (Phase 1)
-      ↓
-Free-Space & Collision Engine (Phase 2)
-      ↓
-Placement Scoring System (Phase 3)
-      ↓
-LLM Explanation Layer (Phase 4)
-      ↓
-Evaluation Across Multiple Rooms
+---
 
-**Phase 1 – Scene Understanding (Room-Agnostic Core)**
-Objective
+## 🧠 Why this matters
 
-Convert any .glb file into a structured scene representation.
+Most LLMs understand intent but struggle with *physics/geometry*.  
+This project avoids “coordinate hallucination” by making the LLM **never decide final coordinates**.
 
-Extracted Information
+Instead:
+1. The LLM converts the request into structured constraints (JSON-like plan)
+2. A geometry engine computes candidate valid placements
+3. The LLM explains the final choice using computed measurements
 
-Room bounds
+---
 
-Floor height (robust percentile-based estimation)
+## 🏗️ System Overview
 
-Object bounding boxes (AABB in world coordinates)
+**Input:** “Place a chair near the desk, don’t block the doorway, keep 60cm clearance.”  
+**Output:** position + rotation + explanation
 
-2D occupancy grid (top-down projection)
+**Pipeline**
+1. **Scene parsing (Blender → usable geometry)**
+   - room boundaries / floor plane
+   - obstacles / existing furniture
+   - door/walkway regions (optional)
+2. **Candidate generation**
+   - sample points on floor grid / free-space map
+   - optional heuristic zones (near desk, against wall, etc.)
+3. **Feasibility & collision checks**
+   - reject collisions and violations
+   - rank candidates by constraint satisfaction score
+4. **LLM explanation**
+   - “Chosen because it’s 0.8m from desk, 1.2m from doorway, no overlap…”
 
+---
 
-Phase 2 – Collision & Free-Space Engine
-Objective
+## 📦 Tech Stack
 
-Generate physically valid placement candidates.
+- **Python**
+- **Blender** (scene / environment)
+- **LLM API / Local LLM** for intent + explanation
+- Basic geometry utilities (bounding boxes, distance checks, grid sampling)
 
-Checks
+---
 
-No collision with existing objects
-
-Inside room bounds
-
-Clearance radius satisfied
-
-Does not block walkable free space
-
-
-Phase 3 – Placement Optimization
-Objective
-
-Select the best placement using spatial scoring.
-
-Example Scoring Criteria
-
-Distance to nearest wall
-
-Distance to target object (e.g., chair near desk)
-
-Maximum clearance
-
-Walkability preservation
-
-
-Phase 4 – Geometry-Grounded LLM Explanation
-
-The LLM does not hallucinate placement.
-
-Instead, it receives structured geometric facts:
-
-Distance to nearest wall
-
-Clearance value
-
-Collision checks
-
-Walkability impact
-
-Candidate ranking
-
-It generates:
-
-Final placement decision
-
-Explanation referencing measured geometry
-
-Optional rejection reasoning for alternatives
-
-Multi-Room Generalization
-
-To prove room-agnostic behavior:
-
-Multiple room layouts are placed in /data/rooms
-
-A batch runner processes all rooms
-
-Evaluation metrics are computed per room
-
-Metrics
-
-Collision-free rate
-
-Average clearance
-
-Walkability impact
-
-Runtime per scene
-
-Novelty
-
-This system is novel because:
-
-It is fully room-agnostic
-
-No scene-specific hardcoding
-
-Converts arbitrary 3D layouts into structured scene graphs
-
-Combines geometric reasoning with LLM-based explanation
-
-Produces measurable evaluation metrics
-
-Supports multi-room generalization
-
-👥 Team Responsibilities
-Geometry & Core Engine
-
-Scene extraction
-
-Bounding box computation
-
-Occupancy grid
-
-Optimization
-
-Collision detection
-
-Candidate scoring
-
-Constraint modeling
-
-LLM & Explainability
-
-Prompt design
-
-Structured input formatting
-
-Explanation generation
-
-Evaluation & Demo
-
-Batch runner
-
-Metrics
-
-Visualization
-
-Documentation
-
-
-Phase 1:
+3D to 2D With valid Candidate Placement Point:
 <img width="775" height="545" alt="image" src="https://github.com/user-attachments/assets/524f4c1a-dee0-4c7f-812b-ed4f2071b2e0" />
 
